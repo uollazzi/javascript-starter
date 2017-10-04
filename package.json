@@ -1,0 +1,12 @@
+{
+  "name": "javascript-starter",
+  "version": "1.0.0",
+  "description": "Javascript project boilerplate.",
+  "main": "index.js",
+  "repository": "https://github.com/uollazzi/javascript-starter.git",
+  "author": "uollazzi <dilloawallace@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
