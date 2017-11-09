@@ -10,6 +10,7 @@ newjs() {
     else
         git clone https://github.com/uollazzi/javascript-starter.git $1
         cd $1
+        rm -rf .git
         code .
     fi
 }
